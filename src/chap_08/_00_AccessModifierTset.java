@@ -1,4 +1,4 @@
-package chap08;
+package chap_08;
 
 import chap_07.*;
 
