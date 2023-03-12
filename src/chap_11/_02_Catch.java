@@ -4,7 +4,7 @@ public class _02_Catch {
 
 	public static void main(String[] args) {
 		try {
-//			System.out.println(3 / 0);
+//			System.out.pr intln(3 / 0);
 			
 			int[] arr = new int[3];
 			arr[5] = 100;
